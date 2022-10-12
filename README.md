@@ -39,6 +39,12 @@
 - 服务端和客户端需要在同一个局域网下（例如校园网）
 
   ~~当然有钱租个公网ip运行服务端也可以~~
+  
+- 要在Linux下运行需要重新编译
+
+  `go build -o server main.go server.go user.go`
+
+  `go build -o client client.go`
 
 ## 个人总结
 

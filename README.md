@@ -6,6 +6,8 @@
 
 [项目地址](https://github.com/wan-nan/Golang_Instant_Messaging_System)
 
+[参考教程](https://www.yuque.com/aceld/mo95lb/dsk886)
+
 ## 功能
 
 - 用户上线及用户下线的广播提醒

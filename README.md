@@ -96,3 +96,7 @@
 - 这个项目一方面熟悉了Golang的基本语法，同时也对C/S模式的应用有了初步的认识
 
   - [ ] 后续打算接触一下**设计模式**
+
+## Security
+
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1618015309080866816.svg?t=1)](https://www.murphysec.com/accept?code=a64ac5408ad1622070984da40540f197&type=1&from=2&t=2)

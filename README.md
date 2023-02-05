@@ -99,4 +99,4 @@
 
 ## Security
 
-[![Security Status](https://www.murphysec.com/platform3/v3/badge/1618015309080866816.svg)](https://www.murphysec.com/accept?code=a64ac5408ad1622070984da40540f197&type=1&from=2&t=2)
+[![Security Status](README/1618015309080866816.svg)](https://www.murphysec.com/accept?code=a64ac5408ad1622070984da40540f197&type=1&from=2&t=2)
